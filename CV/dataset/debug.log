@@ -1,3 +1,12 @@
 [0706/195328:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
 [0707/112135:INFO:exception_record.cc(518)] [QB]Process ID: 16792 Type: 4
 [0707/144759:INFO:exception_record.cc(518)] [QB]Process ID: 17496 Type: 4
+[0708/105655:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105700:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105705:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105710:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105710:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105710:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105716:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/105717:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0708/191322:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
