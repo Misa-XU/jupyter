@@ -21,3 +21,23 @@
 [0709/112055:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0709/191445:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0709/191448:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/013507:INFO:exception_record.cc(518)] [QB]Process ID: 11368 Type: 4
+[0712/103607:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/103612:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/103630:INFO:exception_record.cc(518)] [QB]Process ID: 8104 Type: 4
+[0712/110925:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0712/185611:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185616:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185621:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185626:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185631:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185636:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185641:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185646:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185651:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185656:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185701:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185706:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185711:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185716:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0712/185722:INFO:exception_record.cc(518)] [QB]Process ID: 13832 Type: 4
