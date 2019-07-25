@@ -146,3 +146,10 @@
 [0724/174652:INFO:exception_record.cc(518)] [QB]Process ID: 27256 Type: 4
 [0724/174957:INFO:exception_record.cc(518)] [QB]Process ID: 2120 Type: 4
 [0724/190656:INFO:exception_record.cc(518)] [QB]Process ID: 23720 Type: 4
+[0724/211237:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0724/211304:INFO:exception_record.cc(518)] [QB]Process ID: 25948 Type: 4
+[0725/120247:INFO:exception_record.cc(518)] [QB]Process ID: 25408 Type: 4
+[0725/120320:INFO:child_thread_impl.cc(767)] ChildThreadImpl::EnsureConnected()
+[0725/194009:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0725/194046:INFO:exception_record.cc(518)] [QB]Process ID: 28352 Type: 4
+[0725/194456:INFO:exception_record.cc(518)] [QB]Process ID: 14852 Type: 4
