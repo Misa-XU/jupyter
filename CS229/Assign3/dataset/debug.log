@@ -1,0 +1,7 @@
+[0729/193619:INFO:exception_record.cc(518)] [QB]Process ID: 9896 Type: 4
+[0729/193644:INFO:child_thread_impl.cc(767)] ChildThreadImpl::EnsureConnected()
+[0730/112158:INFO:exception_record.cc(518)] [QB]Process ID: 6788 Type: 4
+[0730/122716:INFO:exception_record.cc(518)] [QB]Process ID: 20344 Type: 2
+[0730/160427:INFO:exception_record.cc(518)] [QB]Process ID: 9588 Type: 2
+[0730/165822:INFO:exception_record.cc(518)] [QB]Process ID: 16836 Type: 2
+[0730/193249:INFO:exception_record.cc(518)] [QB]Process ID: 5872 Type: 4
