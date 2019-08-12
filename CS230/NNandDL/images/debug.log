@@ -15,3 +15,5 @@
 [0809/105809:INFO:exception_record.cc(518)] [QB]Process ID: 27800 Type: 4
 [0809/112059:INFO:exception_record.cc(518)] [QB]Process ID: 38928 Type: 2
 [0809/112105:WARNING:webmediaplayer_impl.cc(341)] Using MultibufferDataSource
+[0812/105739:INFO:exception_record.cc(518)] [QB]Process ID: 11928 Type: 4
+[0812/195501:INFO:exception_record.cc(518)] [QB]Process ID: 20348 Type: 4
