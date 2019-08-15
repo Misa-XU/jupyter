@@ -6,3 +6,9 @@
 [0814/000439:INFO:exception_record.cc(518)] [QB]Process ID: 11116 Type: 2
 [0814/000447:WARNING:webmediaplayer_impl.cc(341)] Using MultibufferDataSource
 [0814/001230:INFO:exception_record.cc(518)] [QB]Process ID: 20000 Type: 2
+[0814/033246:INFO:exception_record.cc(518)] [QB]Process ID: 9496 Type: 4
+[0814/112831:INFO:exception_record.cc(518)] [QB]Process ID: 14832 Type: 4
+[0814/114221:INFO:exception_record.cc(518)] [QB]Process ID: 14484 Type: 2
+[0814/193059:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0815/000629:INFO:exception_record.cc(518)] [QB]Process ID: 12948 Type: 4
+[0815/014532:INFO:exception_record.cc(518)] [QB]Process ID: 22780 Type: 4
