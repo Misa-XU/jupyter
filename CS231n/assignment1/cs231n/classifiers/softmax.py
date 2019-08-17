@@ -23,7 +23,6 @@ def softmax_loss_naive(W, X, y, reg):
     """
     # Initialize the loss and gradient to zero.
     loss = 0.0
-    dW = np.zeros_like(W)
 
     #############################################################################
     # TODO: Compute the softmax loss and its gradient using explicit loops.     #
@@ -32,11 +31,20 @@ def softmax_loss_naive(W, X, y, reg):
     # regularization!                                                           #
     #############################################################################
     # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
+    num_train = X.shape[0]
+    num_class = W.shape[1]
 
-    pass
+    Z = X @ W
+    A = np.exp(Z - np.max(Z, axis = 1, keepdims = True))
+    A = A / np.sum(A, axis = 1, keepdims = True)
+    y_train = np.eye(num_train)[y][:, :num_class]
 
+    loss = np.sum(- y_train * np.log(A)) / num_train + 0.5 * reg * np.sum(W * W)
+
+    A[y_train == 1] -= 1
+
+    dW = X.T @ A / num_train + reg * W
     # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
     return loss, dW
 
 
@@ -57,9 +65,18 @@ def softmax_loss_vectorized(W, X, y, reg):
     # regularization!                                                           #
     #############################################################################
     # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
+    num_train = X.shape[0]
+    num_class = W.shape[1]
 
-    pass
+    Z = X @ W
+    A = np.exp(Z - np.max(Z, axis = 1, keepdims = True))
+    A = A / np.sum(A, axis = 1, keepdims = True)
+    y_train = np.eye(num_train)[y][:, :num_class]
 
+    loss = np.sum(- y_train * np.log(A)) / num_train + 0.5 * reg * np.sum(W * W)
+
+    A[y_train == 1] -= 1
+
+    dW = X.T @ A / num_train + reg * W
     # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
     return loss, dW
